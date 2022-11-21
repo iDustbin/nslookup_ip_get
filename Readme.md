@@ -1,4 +1,5 @@
-ansible-vault-hash
+BATCH Script to get IP addresses
+Helpful for Firewall Requests
 
 Build Status
 
